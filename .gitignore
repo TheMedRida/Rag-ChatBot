@@ -1,0 +1,11 @@
+# Backend
+**/__pycache__/
+**/venv/
+
+# Database
+**/chroma_db/
+
+# Fontend
+**/node_modules/
+**/.next/
+
